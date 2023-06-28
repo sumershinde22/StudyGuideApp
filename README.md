@@ -1,5 +1,5 @@
 # StudyGuideApp
-Tool to use for 
+Tool for spaced repetition study session, based on the MarkdownSummarizer project
 
 [Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) is a learning technique that involves reviewing information at increasing intervals over time. Rather than cramming all your studying into one session, spaced repetition distributes learning and review sessions strategically to optimize long-term memory retention. 
 
