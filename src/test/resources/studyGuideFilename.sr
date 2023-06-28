@@ -1,0 +1,3 @@
+What is the purpose of the CopyOnWriteArrayList class in Java?:::The CopyOnWriteArrayList class in Java is an enhanced version of ArrayList.:::hard
+What is an array in Java?:::An array in Java is a collection of variables of the same type, referred to by a common name.:::hard
+What are vectors in Java?:::Vectors in Java act like resizable arrays.:::hard
